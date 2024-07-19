@@ -1,0 +1,3 @@
+# Set cache control for the entire site
+/*
+  Cache-Control: no-cache
